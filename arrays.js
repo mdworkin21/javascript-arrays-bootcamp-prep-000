@@ -14,7 +14,6 @@ function addElementToBeginningOfArray(array, element){
 
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  /*var array = [1] */
   array.unshift("foo")
   return array
 }
@@ -37,7 +36,7 @@ function addElementToEndOfArray(array, element){
   }
 
   function destructivelyRemoveElementFromBeginningOfArray(array){
-    var array = [1, 2, 3]
+    /*var array = [1, 2, 3]*/
     array.shift()
     return array
   }
