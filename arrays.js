@@ -32,7 +32,7 @@ function addElementToEndOfArray(array, element){
   }
 
   function accessElementInArray (array, index){
-      var array = [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+      var array = []
         console.log(array[0])
   }
 
