@@ -60,4 +60,4 @@ function removeElementFromEndOfArray(array){
     return array
   }
 
-  accessElementInArray(array, 0);
+  
